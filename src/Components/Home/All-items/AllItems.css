@@ -1,0 +1,44 @@
+/* Assuming you have a container element wrapping your menu items */
+
+.menu-container {
+    margin-top: 10px;
+    display: grid;
+    grid-template-columns: repeat(4, 1fr); /* Create 4 equally sized columns */
+    gap: 20px; /* Add some spacing between items */
+  }
+  
+  /* Style for each menu item */
+  .menu-item {
+    /* Your individual menu item styles here */
+    text-align: center; /* Center the content within each item */
+  }
+  img{
+    height: 180px;
+    width: 180px;
+  }
+  .menu-item:hover {
+    transform: translateY(-5px);
+  }
+  
+  .cool-button {
+    background-color: #ff5733;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+    transition: background-color 0.2s;
+  }
+  
+  .cool-button:hover {
+    background-color: #d74114;
+  }
+  
+  
+  
+  
+  
+  
+  
+  

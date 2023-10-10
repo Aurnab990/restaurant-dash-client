@@ -1,0 +1,98 @@
+[
+    {
+        "id":1,
+        "title":"Hamburgers & Cheeseburgers",
+        "description":"",
+        "price":"20",
+        "img":"https://s7d1.scene7.com/is/image/mcdonalds/DC_202201_0007-005_QuarterPounderwithCheese_832x472:1-4-product-tile-desktop",
+        "stock":"29"
+    },
+    {
+        "id":2,
+        "title":"Super Cool Burger",
+        "description":"",
+        "price":"30",
+        "img":"https://s7d1.scene7.com/is/image/mcdonalds/DC_202201_0007-005_QuarterPounderwithCheese_832x472:1-4-product-tile-desktop",
+        "stock":"12"
+    },
+    {
+        "id":3,
+        "title":"Super Cool Burger",
+        "description":"",
+        "price":"18",
+        "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMJ2U7ymCa8JJtknjEtV1cJch8-7jm-AgSvg&usqp=CAU",
+        "stock":"45"
+    },
+    {
+        "id":4,
+        "title":"Super Cool Burger",
+        "description":"",
+        "price":"16",
+        "img":"https://s7d1.scene7.com/is/image/mcdonalds/DC_202201_0007-005_QuarterPounderwithCheese_832x472:1-4-product-tile-desktop",
+        "stock":"58"
+    },
+    {
+        "id":5,
+        "title":"Super Cool Burger",
+        "description":"",
+        "price":"25",
+        "img":"https://s7d1.scene7.com/is/image/mcdonalds/DC_202201_0007-005_QuarterPounderwithCheese_832x472:1-4-product-tile-desktop",
+        "stock":"45"
+    },
+    {
+        "id":6,
+        "title":"Super Cool Burger",
+        "description":"",
+        "price":"28",
+        "img":"https://s7d1.scene7.com/is/image/mcdonalds/DC_202201_0007-005_QuarterPounderwithCheese_832x472:1-4-product-tile-desktop",
+        "stock":"54"
+    },
+    {
+        "id":7,
+        "title":"Super Cool Burger",
+        "description":"",
+        "price":"32",
+        "img":"https://s7d1.scene7.com/is/image/mcdonalds/DC_202201_0007-005_QuarterPounderwithCheese_832x472:1-4-product-tile-desktop",
+        "stock":"54"
+    },
+    {
+        "id":8,
+        "title":"Super Cool Burger",
+        "description":"",
+        "price":"13",
+        "img":"https://s7d1.scene7.com/is/image/mcdonalds/DC_202201_0007-005_QuarterPounderwithCheese_832x472:1-4-product-tile-desktop",
+        "stock":"14"
+    },
+    {
+        "id":9,
+        "title":"Super Cool Burger",
+        "description":"",
+        "price":"17",
+        "img":"https://s7d1.scene7.com/is/image/mcdonalds/DC_202201_0007-005_QuarterPounderwithCheese_832x472:1-4-product-tile-desktop",
+        "stock":"23"
+    },
+    {
+        "id":10,
+        "title":"Super Cool Burger",
+        "description":"",
+        "price":"20",
+        "img":"https://s7d1.scene7.com/is/image/mcdonalds/DC_202201_0007-005_QuarterPounderwithCheese_832x472:1-4-product-tile-desktop",
+        "stock":"25"
+    },
+    {
+        "id":11,
+        "title":"Super Cool Burger",
+        "description":"",
+        "price":"45",
+        "img":"https://s7d1.scene7.com/is/image/mcdonalds/DC_202201_0007-005_QuarterPounderwithCheese_832x472:1-4-product-tile-desktop",
+        "stock":"23"
+    },
+    {
+        "id":12,
+        "title":"Super Cool Burger",
+        "description":"",
+        "price":"90",
+        "img":"https://s7d1.scene7.com/is/image/mcdonalds/DC_202201_0007-005_QuarterPounderwithCheese_832x472:1-4-product-tile-desktop",
+        "stock":"12"
+    }
+]
